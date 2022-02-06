@@ -6,6 +6,7 @@
 appsettings.json
 webReact.db
 settings.json
+startup.cs
 # User-specific files
 *.rsuser
 *.suo
@@ -438,3 +439,4 @@ $RECYCLE.BIN/
 .vscode/settings.json
 .vscode/launch.json
 .vscode/tasks.json
+API/Startup.cs

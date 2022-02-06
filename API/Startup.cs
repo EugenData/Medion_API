@@ -167,6 +167,8 @@ namespace API
             {
                 endpoints.MapControllers();
                 endpoints.MapFallbackToController("Index", "Fallback");
+                
+                
                 //endpoints.MapHangfireDashboard();
             });
 
